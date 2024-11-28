@@ -8,4 +8,5 @@ Here's the features: 🚀
 
 This project is built with:<br>
 ReactJs ,CSS, API Calling, Hooks <br>
-Preview:  <a href="https://grocery-bud-using-js.vercel.app/">Link</a>
+Preview:  <a href="https://grocery-bud-using-js.vercel.app/">Link</a> <br>
+[![YouTube](http://i.ytimg.com/vi/bQoEfRduNco/hqdefault.jpg)](https://www.youtube.com/watch?v=bQoEfRduNco)
