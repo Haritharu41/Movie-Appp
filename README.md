@@ -1,5 +1,5 @@
 # Movie App
-Here's the features: 🚀
+<h3>Here's the features: 🚀 </h3>
 
 ✅ Search movie <br>
 ✅ Add movie to favorite section<br>
